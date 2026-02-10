@@ -11,4 +11,4 @@ app.include_router(tasks.router)
 
 @app.get("/")
 def root():
-    return {"message": "API rodando 🚀"}
+    return {"message": "Inaê, Eu te amo muito! ❤️"}
