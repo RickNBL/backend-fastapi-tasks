@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """ 
 # Task Manager API (FastAPI) API backend completa com: 
 - FastAPI 
@@ -13,3 +14,5 @@ uvicorn app.main:app --reload
 Acesse a documentação: http://127.0.0.1:8000/docs 
 
 """
+=======
+
