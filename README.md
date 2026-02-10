@@ -1,5 +1,5 @@
 
-""" 
+ 
 # Task Manager API (FastAPI) API backend completa com: 
 - FastAPI 
 - Autenticação básica 
